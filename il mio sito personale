@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang ="en">
+    <head>
+        <!--Meta tag obbligatori-->
+        <meta  charset = " utf-8 " >
+        <meta  name = " viewport "  content = " width = device-width, initial-scale = 1, shrink-to-fit = no " >
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="css/bootstrap-reboot.min.css">
+        <link rel="stylesheet" href="css/bootstrap-grid.min.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+
+        <title>index.html!</title>
+        <!-- Required meta tags -->
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">     
+
+    </head>
+    
+    <body style="background-color:white">
+
+        <div class="container bq-color">
+                        
+                        
+            <div class="row">
+                        
+                <div class="col-sm-12">
+                    <h1 class="text-center">Storia</h1>
+
+                    <div class="row">
+                        <div clas="col-sm-12">
+                            <h2>Gaio Giulio Cesare</h2>
+                            <p>In latino: Gaius Iulius Caesar ,  è stato un militare, console, dittatore, pontefice massimo, oratore e scrittore romano, considerato uno dei personaggi più importanti e influenti della storia.
+                            Ebbe un ruolo fondamentale nella transizione del sistema di governo dalla forma repubblicana a quella imperiale. Fu dittatore (dictator) di Roma alla fine del 49 a.C., nel 47 a.C., nel 46 a.C. con carica decennale e dal 44 a.C. come dittatore perpetuo, e per questo ritenuto da Svetonio il primo dei dodici Cesari, in seguito sinonimo di imperatore romano.</p>
+                        </div>
+                    </div class="row">
+                    	
+                    <div class="row">
+                    	<div clas="col-sm-12">
+           	               <h2>La battagli piu importante della sua cariera Lassedio di Alesia.</h2><p>La rivolta ebbe inizio dalle azioni dei Carnuti, ma ben presto a prenderne il comando fu Vercingetorige che, eletto re degli Arverni, si guadagnò l'alleanza di tutti i popoli limitrofiVercingetorige decise di marciargli contro, ma il proconsole in risposta cinse d'assedio la città di Avarico: riuscì a espugnarla dopo quasi un mese con l'ausilio di imponenti opere di ingegneria militare, mentre il re degli Arverni, benché potesse contare su di un esercito ben più numeroso di quello di Cesare, si sottrasse allo scontro.
+                           Fu quindi costretto ad assistere impotente al massacro di tutta la popolazione della città (oltre 40 000 persone), ma riuscì a ottenere l'appoggio di altre popolazioni galliche.Lì Cesare lo raggiunse e fece costruire una doppia linea di fortificazione che si estendeva per oltre 17 chilometri: egli, infatti, si aspettava l'arrivo di un esercito di rinforzo, e temeva che i suoi 50 000 legionari potessero rimanere schiacciati tra le forze nemiche. Difatti, dopo oltre un mese, a sostegno dei 60 000 assediati giunsero altri 240 000 armati, che attaccarono le dieci legioni di Cesare: egli, guidando l'esercito in prima persona assieme a Labieno, ottenne una decisiva vittoria e costrinse Vercingetorige a consegnarsi</p>   
+                        </div>
+                    </div class="row">
+                        
+                    <div class="row">
+                       	<div clas="col-sm-12">
+                            <h2>La sua vita</h2><p>Cesare nacque il 13 luglio del 101 o il 12 luglio del 100 a.C. nella Suburra, un quartiere di Roma, da un'antica e nota famiglia patrizia, la gens Iulia, che, secondo il mito, annoverava tra gli antenati anche il primo e grande re romano, Romolo 
+                            La famiglia viveva in una modesta casa della popolare e malfamata Suburra, dove il giovane Giulio Cesare fu educato da Marco Antonio Gnifone, un illustre grammatico nativo della Gallia. Cesare trascorse il suo periodo di formazione in un'epoca tormentata da gravi disordini. Mitridate VI, re del Ponto, minacciava le province orientali; contemporaneamente, era in corso in Italia la Guerra sociale e la città di Roma era divisa in due fazioni contrapposte: gli optimates, favorevoli al potere aristocratico, e i populares o democratici, che sostenevano la possibilità di rivolgersi direttamente all'elettorato. Pur se di nobili origini, fin dall'inizio della sua carriera Cesare si schierò dalla parte dei populares, scelta sicuramente condizionata dalle convinzioni dello zio Gaio Mario, capo dei populares e rivale di Lucio Cornelio Silla, sostenuto da aristocrazia e Senato.</p> 
+
+                            <h2>Linfanzia</h2><p>Nell'86 a.C. lo zio Gaio Mario morì, e nell'85 a.C., quando Cesare aveva solo quindici anni, morì il padre Gaio Giulio Cesare il Vecchio. L'anno seguente Cesare ripudiò la sua promessa sposa Cossuzia per sposare Cornelia minore, figlia di Lucio Cornelio Cinna, alleato di Gaio Mario nella guerra civile. Il nuovo legame con una famiglia notoriamente schierata con i popolari, oltre alla parentela con Mario, causarono problemi non indifferenti al giovane Cesare negli anni della dittatura di Silla. Questi cercò di ostacolarne in tutti i modi le ambizioni, bloccando la sua nomina a Flamen Dialis; la situazione poi si aggravò quando il dittatore, avuta la meglio su Mitridate VI, nell'82 a.C. rientrò in Italia, sconfisse i seguaci di Mario nella battaglia di Porta Collina, e si autoproclamò dittatore perpetuo per la riforma delle leggi e la restaurazione della repubblica, e cominciò a eliminare i suoi avversari politici; ordinò a Cesare di divorziare da Cornelia poiché non era patrizia, ma Cesare rifiutò. Silla meditò allora di farlo uccidere, ma dovette poi desistere dopo i numerosi appelli rivoltigli dalle Vestali e da Gaio Aurelio Cotta.</p>                
+                        </div>
+                    </div class="row"> 
+
+
+                    <div class="row">
+                     	<div clas="col-sm-12">
+                    		<img src="immagini/morte.jpg" alt="immagini di un titolo" clas="img-fluid morte" al ="morte" style="float:right;margin:lpx">
+                            <h2><strong>LA MORTE DI GIULIO CESARE</strong></h2><p>Il Senato venne convocato per le Idi di marzo (15 marzo del 44 a.C.) nella Curia di Pompeo. 
+                            Gaio Giulio Cesare , non si senti bene e oridno a Marco Antonio ad annullare la seduta del Senato. Allora i congiurati inviarono Decimo Bruto ad esortare Cesare a presentarsi in Senato perchè i senatori erano già da tempo arrivati e lo stavano aspettando. Non appena arrivato li gli venne consegnata una lettera con scritto
+                            da un suo sostenitore che lo volevano assasinare , non fece in tempo ad aprirla che ,  congiurati lo assalirono con i pugnali , pugnalandolo a morte</p>
+                        </div>
+                    </div class="row">
+
+                 </div>
+            </div>
+        </div>
+    </body>
+</html>
+
